@@ -1,0 +1,8 @@
+Uuid,Void/Retire,Name,Description,_version:1
+a9a7b3d4-c6dc-4123-b2d0-e9ae88ad4df5,,Général,Général Visit,
+fe8bdf92-f128-4cf9-8c28-c295942b6ebe,,Hospitalisation,Hospitalisation Visit,
+868f9b6d-3aee-4737-99d2-9ffbf25c8a40,,Odontologie," Odontologie Visit",
+6cfb30fe-9932-4e0c-bf56-3b5d12a9d3e9,,Chirurgie,Chirurgie Visit,
+bf29df3f-e116-4c90-860e-29343ee5b09d,,Pédiatrie,Pédiatrie Visit,
+1f898515-0783-4ed7-bd0d-cf20e124750b,,Psychiatrie,Psychiatrie Visit,
+,True,LAB VISIT,, 
